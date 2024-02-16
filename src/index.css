@@ -2,8 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-* {
-  background-color: #6b6e70;
+body {
+  margin: 0;
+  border: 0;
+  background-color: #475569;
   align-items: center;
   justify-content: center;
 }
